@@ -45,7 +45,7 @@ python query.py
 - **Fast and Scalable Face Search** using ChromaDB.
 - **Structured Face Indexing** to link detected faces with their source images.
 
-## 📌 Usage
+## 📝 Usage
 1. Place all images in the `input/` directory.
 2. Run `face_detection_and_image_embeddings.py` to process and generate face embeddings.
 3. Run `store_face_embeddings.py` to store generated face embeddings into vector database
