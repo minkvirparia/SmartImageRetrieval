@@ -1,0 +1,7 @@
+numpy
+pillow
+chromadb
+torchvision
+opencv-python
+opencv-headless
+facenet-pytorch
